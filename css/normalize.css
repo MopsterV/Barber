@@ -650,7 +650,7 @@ input[type="radio"].visually-hidden {
 
 .catalog-item {
   width: 220px;
-  min-height: 285px;
+  min-height: 275px;
   margin-bottom: 20px;
   margin-right: 20px;
 
@@ -692,7 +692,7 @@ input[type="radio"].visually-hidden {
 
 .catalog-item-image {
   width: 220px;
-  height: 165px;
+  height: 150px;
   margin: 0;
 }
 
